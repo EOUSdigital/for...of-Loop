@@ -1,4 +1,4 @@
-# 🔁 Module 06 – Lesson 06: `for...of` Loop
+# 🔁 Module 06 - Loops, Iteration and High Order Array Methods - Lesson 06: `for...of` Loop
 
 This lesson introduces the `for...of` loop in JavaScript — a cleaner and more intuitive way to iterate over iterable data such as arrays and strings.
 
